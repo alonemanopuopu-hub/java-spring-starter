@@ -1,0 +1,9 @@
+/target
+/.mvn
+/mvnw
+/mvnw.cmd
+*.log
+*.class
+.idea/
+.vscode/
+.DS_Store
