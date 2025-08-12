@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winzipjob version="10" minwinrun="61" type="1">
+<items>
+<filter exclude="yes">*\My WinZip Files\*</filter>
+<item spid="30" exclude="no" recurse="yes" folder="yes" dnld="no">C:\Users\HP\OneDrive\Documents\</item>
+</items>
+
+<output>
+<spid>30</spid>
+<auth-id>30</auth-id>
+<name append="none">My Documents.zipx</name>
+<folder append="none">C:\Users\HP\OneDrive\Documents\My WinZip Files</folder>
+</output>
+
+<options>
+<compression type="best" />
+<folders mode="relative" />
+<progress>yes</progress>
+<encryption mode="none" method="none" />
+</options>
+</winzipjob>
